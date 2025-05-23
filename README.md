@@ -28,7 +28,8 @@
 
 ## 🚀 How to Run
 
-Make sure you have **Go** installed. Then:
+1. Use one of the two executables
+2. Make sure you have **Go** installed. Then:
 
 ```bash
 go run main.go
