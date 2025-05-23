@@ -21,7 +21,9 @@
 - `StormList.txt` → Your evolving wordlist with over **17 million** unique entries  
 - `dictionary.txt` → A list of real words used to make realistic passwords  
 - `names.txt` → Optional file for generating passwords from common names  
-- `main.go` → The Go source code of the StormList generator  
+- `main.go` → The Go source code of the StormList generator
+- `main` → This is main.go executable for Linux
+- `main.exe` → This is main.go executable for Windows 
 - `README.md` → You're reading it 😎  
 
 ---
